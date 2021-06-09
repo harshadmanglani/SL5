@@ -1,0 +1,12 @@
+main()
+{
+    int a,b,c,d;
+    a=10;
+    scanf("%d",&b);
+    for(int i=0; i<2; i++)
+    {
+        c=a+b;
+    }
+    d=c/a;
+    printf("%d %d",c,c);
+}
